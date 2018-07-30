@@ -38,4 +38,3 @@ public class GameElement {
         mView.playSound(mSoundId);
     }
 }
-
